@@ -94,7 +94,8 @@
 
 # 실패(그렇게 2주가 흘러갔습니다...)
 <p align="center"><img src = "./Images/Untitled%203.png" width = 900px align="center"></p>
-<br/>
+<br/><br/>
+
 ## 각성
 
 - 멘토님의 조언
